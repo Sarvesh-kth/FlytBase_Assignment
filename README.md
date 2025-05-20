@@ -6,7 +6,7 @@ Main Function has a list of class DroneTrajectory objects which contain the dron
 Safety Distance, FPS, duration,  are parameters in the create_animation() function that can be modified as required. 
 
 # Install
-pip install numpy
+pip install numpy\\
 pip install matplotlib
 
 # Execution:
